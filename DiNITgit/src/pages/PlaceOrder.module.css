@@ -1,0 +1,741 @@
+.kukatpallyHyderabad,
+.moxie {
+  position: absolute;
+  display: inline-block;
+}
+.moxie {
+  width: 98.01%;
+  top: 0;
+  left: 1.99%;
+  font-size: var(--font-size-9xl);
+  line-height: 16.5px;
+  font-family: var(--font-signika);
+  color: var(--color-black);
+  text-align: left;
+}
+.kukatpallyHyderabad {
+  width: 72.85%;
+  top: 63.16%;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 21px;
+  font-family: var(--font-mulish);
+  color: var(--color-gray-500);
+  text-align: center;
+}
+.eatHealthy {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 51.82%;
+  width: 36.21%;
+  top: 40%;
+  right: 63.79%;
+  bottom: 8.18%;
+  left: 0;
+}
+.backIcon {
+  position: absolute;
+  height: 11.82%;
+  width: 1.56%;
+  top: -0.45%;
+  right: 97.84%;
+  bottom: 88.64%;
+  left: 0.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deliveryChild {
+  position: absolute;
+  height: 100%;
+  width: 87.76%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 12.24%;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-200);
+}
+.div {
+  position: absolute;
+  height: 87.88%;
+  width: 21.43%;
+  top: 5.72%;
+  left: 20.41%;
+  line-height: 21.5px;
+  display: inline-block;
+}
+.deliveryItem {
+  position: absolute;
+  height: 27.27%;
+  width: 11.22%;
+  top: 20.54%;
+  right: 42.86%;
+  bottom: 52.19%;
+  left: 45.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.delivery1 {
+  position: absolute;
+  height: 60.61%;
+  width: 80.61%;
+  top: 39.06%;
+  left: 0;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.04em;
+  line-height: 22px;
+  display: inline-block;
+}
+.delivery {
+  position: absolute;
+  height: 38.57%;
+  width: 23.5%;
+  top: 18.7%;
+  right: 0;
+  bottom: 42.73%;
+  left: 76.5%;
+}
+.photosChild,
+.photosItem {
+  position: absolute;
+  width: 87.76%;
+  right: 0;
+  bottom: 0;
+  left: 12.24%;
+}
+.photosChild {
+  height: 100%;
+  top: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.photosItem {
+  height: 99.37%;
+  top: 0.63%;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-900);
+}
+.div1,
+.photos1 {
+  position: absolute;
+  height: 87.32%;
+  width: 21.43%;
+  top: 2.38%;
+  left: 16.33%;
+  line-height: 21.5px;
+  display: inline-block;
+}
+.photos1 {
+  height: 60.22%;
+  width: 80.61%;
+  top: 35.5%;
+  left: 0;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.04em;
+  line-height: 22px;
+}
+.photos {
+  position: absolute;
+  height: 38.18%;
+  width: 23.5%;
+  top: 61.82%;
+  right: 0;
+  bottom: 0;
+  left: 76.5%;
+}
+.eatHealthyBckDrop {
+  position: absolute;
+  top: 56px;
+  left: 11px;
+  width: 417px;
+  height: 110px;
+  text-align: center;
+  color: var(--color-white);
+}
+.tipChild {
+  position: absolute;
+  top: -282px;
+  left: 1px;
+  border-radius: var(--br-3xl);
+  background-color: rgba(0, 0, 0, 0.71);
+  width: 414px;
+  height: 1423px;
+}
+.whiteRectangle {
+  position: absolute;
+  top: 58px;
+  left: -1px;
+  border-radius: var(--br-3xl) var(--br-3xl) 0 var(--br-3xl);
+  background-color: var(--color-white);
+  width: 415px;
+  height: 1285px;
+}
+.addOnExtra,
+.hakkaNoodles {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.hakkaNoodles {
+  height: 33.87%;
+  width: 61.5%;
+  line-height: 21px;
+  display: inline-block;
+}
+.addOnExtra {
+  height: 100%;
+  width: 100%;
+  line-height: 13.5px;
+  display: flex;
+  align-items: center;
+}
+.vegPreparation {
+  height: 22.58%;
+  width: 97.79%;
+  top: 77.42%;
+  right: 0;
+  bottom: 0;
+  left: 2.21%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+}
+.closeIconX,
+.vegPreparation {
+  position: absolute;
+}
+.plantProtienBowlStarsVeg {
+  position: absolute;
+  height: 13.33%;
+  width: 54.59%;
+  top: 27.53%;
+  right: 38.41%;
+  bottom: 59.14%;
+  left: 7%;
+}
+.closeIconX {
+  height: 7.1%;
+  width: 7.97%;
+  top: 0;
+  right: 46.14%;
+  bottom: 92.9%;
+  left: 45.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vegIconChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 0.5px solid var(--color-green-100);
+  box-sizing: border-box;
+}
+.vegIconItem {
+  height: 55.56%;
+  width: 55.56%;
+  top: 22.22%;
+  right: 22.22%;
+  bottom: 22.22%;
+  left: 22.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tip,
+.vegIcon,
+.vegIconItem {
+  position: absolute;
+}
+.vegIcon {
+  top: 130px;
+  left: 20px;
+  width: 18px;
+  height: 18px;
+}
+.tip {
+  top: 85px;
+  left: -2px;
+  width: 414px;
+  height: 461px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.div2,
+.div3 {
+  position: absolute;
+  width: 8.42%;
+  top: 19.27%;
+  left: 0;
+  line-height: 21px;
+  display: inline-block;
+}
+.div3 {
+  top: 22.94%;
+  left: 91.58%;
+}
+.addCookingInstructions1 {
+  position: absolute;
+  width: 55.16%;
+  top: 83.49%;
+  left: 23.1%;
+  font-size: var(--font-size-xl);
+  line-height: 13.5px;
+  color: var(--color-gray-500);
+  display: flex;
+  align-items: center;
+}
+.addCookingInstructionsChild {
+  position: absolute;
+  height: 0.92%;
+  width: 50.27%;
+  top: 99.54%;
+  right: 26.63%;
+  bottom: -0.46%;
+  left: 23.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button {
+  width: 15.22%;
+  position: absolute;
+  height: 20.76%;
+  top: 0;
+  right: 0;
+  bottom: 79.24%;
+  left: 84.78%;
+}
+.addCookingInstructions {
+  position: absolute;
+  top: 218px;
+  left: 27px;
+  width: 368px;
+  height: 109px;
+  font-size: var(--font-size-lg);
+}
+.linesIcon {
+  position: absolute;
+  top: 386px;
+  left: 0;
+  width: 417px;
+  height: 772px;
+}
+.grandTotal2,
+.i {
+  position: absolute;
+  width: 28.07%;
+  top: 86.09%;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  line-height: 21px;
+  display: inline-block;
+  font-weight: 200;
+  text-align: center;
+}
+.i {
+  width: 17.29%;
+  left: 82.71%;
+}
+.add,
+.div4,
+.donate3To,
+.itemTotal {
+  position: absolute;
+  line-height: 13.5px;
+  display: flex;
+  align-items: center;
+}
+.itemTotal {
+  height: 21.85%;
+  width: 16.79%;
+  top: 3.31%;
+  left: 5.51%;
+  color: var(--color-gray-600);
+}
+.add,
+.donate3To {
+  top: 60.93%;
+}
+.add {
+  width: 16.79%;
+  left: 60.9%;
+  font-size: var(--font-size-lg);
+  color: var(--color-red-200);
+}
+.donate3To {
+  width: 54.89%;
+  left: 5.51%;
+  color: var(--color-gray-600);
+}
+.div4 {
+  height: 35.76%;
+  width: 12.03%;
+  top: 0;
+  left: 87.22%;
+  color: var(--color-gray-500);
+}
+.grandTotalChild {
+  position: absolute;
+  height: 1.32%;
+  width: 93.48%;
+  top: 34.44%;
+  right: 0.75%;
+  bottom: 64.24%;
+  left: 5.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.grandTotalItem {
+  position: absolute;
+  height: 0.66%;
+  width: 51.88%;
+  top: 71.85%;
+  right: 42.48%;
+  bottom: 27.48%;
+  left: 5.64%;
+  border-top: 1px dashed var(--color-gray-600);
+  box-sizing: border-box;
+}
+.grandTotal1 {
+  position: absolute;
+  height: 93.79%;
+  width: 91.51%;
+  top: 0;
+  right: 4.36%;
+  bottom: 6.21%;
+  left: 4.13%;
+}
+.rectangleColorIcon {
+  position: absolute;
+  height: 295.65%;
+  width: 95.87%;
+  top: 3.11%;
+  right: 0.69%;
+  bottom: -198.76%;
+  left: 3.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.grandTotal {
+  position: absolute;
+  top: 389px;
+  left: -15px;
+  width: 436px;
+  height: 161px;
+}
+.orderForSomeone,
+.orderInstructions,
+.yourDetails {
+  position: absolute;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  line-height: 21px;
+  display: inline-block;
+  font-weight: 200;
+  text-align: center;
+}
+.orderInstructions {
+  width: 39.32%;
+  top: 0;
+}
+.yourDetails {
+  width: 23.18%;
+  top: 33.07%;
+}
+.orderForSomeone {
+  width: 44.53%;
+  top: 50.4%;
+}
+.change,
+.change1 {
+  width: 12.5%;
+  left: 87.5%;
+  line-height: 13.5px;
+  color: var(--color-red-200);
+}
+.change {
+  position: absolute;
+  top: 1.07%;
+  display: flex;
+  align-items: center;
+}
+.change1 {
+  top: 33.07%;
+}
+.add1,
+.change1,
+.ordersOncePlaced {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.ordersOncePlaced {
+  height: 54.4%;
+  width: 80.99%;
+  top: 92.8%;
+  left: 9.64%;
+  font-size: var(--font-size-7xl);
+  line-height: 26.5px;
+  color: var(--color-blue-200);
+  text-align: center;
+  justify-content: center;
+}
+.add1 {
+  width: 6.25%;
+  top: 51.47%;
+  left: 92.45%;
+  line-height: 13.5px;
+  color: var(--color-red-200);
+}
+.deliveryInstructionsChild {
+  position: absolute;
+  height: 0.27%;
+  width: 27.6%;
+  top: 22%;
+  right: 64.19%;
+  bottom: 77.73%;
+  left: 8.2%;
+  border-top: 1px dashed var(--color-red-200);
+  box-sizing: border-box;
+}
+.addVoiceDirections,
+.handMeThe,
+.sanskarSeth6201391815 {
+  position: absolute;
+  line-height: 13.5px;
+  display: flex;
+  align-items: center;
+}
+.handMeThe,
+.sanskarSeth6201391815 {
+  width: 82.29%;
+}
+.handMeThe {
+  top: 10.4%;
+  left: 8.33%;
+  color: var(--color-gray-600);
+}
+.sanskarSeth6201391815 {
+  top: 39.73%;
+  left: 0.52%;
+}
+.addVoiceDirections {
+  height: 8%;
+  width: 41.67%;
+  top: 14.13%;
+  left: 8.33%;
+  color: var(--color-red-100);
+}
+.deliveryInstructionsItem {
+  position: absolute;
+  height: 4.8%;
+  width: 4.69%;
+  top: 10.4%;
+  right: 94.27%;
+  bottom: 84.8%;
+  left: 1.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deliveryInstructionsInner {
+  position: absolute;
+  top: 318.54px;
+  left: 105px;
+  width: 3px;
+  height: 6.93px;
+}
+.deliveryInstructions {
+  position: absolute;
+  top: 624px;
+  left: 22px;
+  width: 384px;
+  height: 375px;
+}
+.placeOrder1 {
+  width: 253px;
+  position: absolute;
+  top: 1345px;
+  left: 145px;
+  cursor: pointer;
+}
+.googlePay,
+.payUsing {
+  line-height: 13.5px;
+  display: flex;
+  align-items: center;
+}
+.googlePay {
+  position: absolute;
+  width: 64.71%;
+  top: 67.44%;
+  left: 0;
+  font-weight: 200;
+}
+.payUsing {
+  height: 62.79%;
+  width: 53.78%;
+  top: 4.65%;
+  left: 34.45%;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-700);
+}
+.gpayChild,
+.pay,
+.payUsing {
+  position: absolute;
+}
+.gpayChild {
+  height: 9.3%;
+  width: 7.56%;
+  top: 20.93%;
+  right: 3.7%;
+  bottom: 69.77%;
+  left: 88.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pay {
+  width: 69.7%;
+  top: 0;
+  left: 30.3%;
+  line-height: 13.5px;
+  display: flex;
+  font-weight: 200;
+  align-items: center;
+}
+.search1Icon {
+  position: absolute;
+  height: 64.29%;
+  width: 27.27%;
+  top: 21.43%;
+  right: 72.73%;
+  bottom: 14.29%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gPay {
+  height: 32.56%;
+  width: 27.73%;
+  top: 4.65%;
+  right: 67.23%;
+  bottom: 62.79%;
+  left: 5.04%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+}
+.gPay,
+.gpay,
+.gpayItem {
+  position: absolute;
+}
+.gpayItem {
+  height: 41.86%;
+  width: 29.41%;
+  top: 0;
+  right: 70.59%;
+  bottom: 58.14%;
+  left: 0;
+  border-radius: var(--br-sm);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.gpay {
+  top: 1358px;
+  left: 16px;
+  width: 119px;
+  height: 43px;
+  font-size: var(--font-size-3xl);
+}
+.phoneMenuIcon {
+  position: absolute;
+  bottom: 2px;
+  left: calc(50% - 207px);
+  width: 425px;
+  height: 51px;
+}
+.addressChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xl) var(--br-3xl) 0 0;
+  background-color: var(--color-white);
+}
+.mins {
+  font-weight: 200;
+}
+.deliveryIn12Container {
+  position: absolute;
+  width: 23.87%;
+  top: 67.19%;
+  left: 9.31%;
+  line-height: 21px;
+  display: inline-block;
+}
+.addressInner,
+.addressItem {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addressItem {
+  height: 5.47%;
+  width: 1.55%;
+  top: 30.86%;
+  right: 3.76%;
+  bottom: 63.67%;
+  left: 94.69%;
+}
+.addressInner {
+  height: 17.19%;
+  width: 2.63%;
+  top: 73.44%;
+  right: 93.79%;
+  bottom: 9.38%;
+  left: 3.58%;
+}
+.address {
+  position: absolute;
+  top: 133px;
+  left: -5px;
+  width: 419px;
+  height: 64px;
+  font-size: var(--font-size-lg);
+}
+.placeOrder {
+  position: relative;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1474px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}

@@ -1,0 +1,908 @@
+.maskImageIcon {
+  position: absolute;
+  height: 103.19%;
+  width: 101.04%;
+  top: 0;
+  right: 0;
+  bottom: -3.19%;
+  left: -1.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.beverages,
+.forOne,
+.moxie {
+  position: absolute;
+  line-height: 21px;
+}
+.moxie {
+  top: 70.12%;
+  left: 3.9%;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.beverages,
+.forOne {
+  width: 13.51%;
+  top: 76.89%;
+  left: 4.42%;
+  display: inline-block;
+}
+.forOne {
+  width: 19.74%;
+  top: 78.49%;
+  left: 79.48%;
+}
+.snacksCornerChild {
+  position: absolute;
+  height: 6.37%;
+  width: 11.43%;
+  top: 73.71%;
+  right: 3.38%;
+  bottom: 19.92%;
+  left: 85.19%;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-300);
+}
+.div {
+  position: absolute;
+  width: 19.74%;
+  top: 72.51%;
+  left: 80.26%;
+  line-height: 21px;
+  color: var(--color-white);
+  display: inline-block;
+}
+.arrowIcon,
+.greenLeafIcon,
+.starIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.starIcon {
+  height: 2.99%;
+  width: 1.95%;
+  top: 75.3%;
+  right: 5.32%;
+  bottom: 21.71%;
+  left: 92.73%;
+}
+.arrowIcon {
+  height: 7.17%;
+  width: 4.68%;
+  top: 88.05%;
+  right: 42.34%;
+  bottom: 4.78%;
+  left: 52.99%;
+}
+.greenLeafIcon {
+  top: 88.05%;
+  height: 8.48%;
+  width: 5.53%;
+  right: 91.88%;
+  bottom: 3.47%;
+  left: 2.6%;
+}
+.snacksCorner {
+  position: absolute;
+  top: 1718px;
+  left: 19px;
+  width: 385px;
+  height: 251px;
+  cursor: pointer;
+  color: var(--color-gray-700);
+}
+.rectangleIcon {
+  position: absolute;
+  height: 103.19%;
+  width: 99.23%;
+  top: 0;
+  right: 0.51%;
+  bottom: -3.19%;
+  left: 0.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.forOne1,
+.garg,
+.mithaiBeverages {
+  position: absolute;
+  line-height: 21px;
+}
+.garg {
+  top: 66.93%;
+  left: 9.44%;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.forOne1,
+.mithaiBeverages {
+  display: inline-block;
+}
+.mithaiBeverages {
+  width: 33.67%;
+  top: 74.9%;
+  left: 3.06%;
+}
+.forOne1 {
+  width: 19.39%;
+  top: 76.1%;
+  left: 79.85%;
+}
+.hanumanSweetsChild {
+  position: absolute;
+  height: 6.37%;
+  width: 11.22%;
+  top: 71.31%;
+  right: 3.32%;
+  bottom: 22.31%;
+  left: 85.46%;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-300);
+}
+.div1 {
+  position: absolute;
+  width: 19.39%;
+  top: 70.12%;
+  left: 80.61%;
+  line-height: 21px;
+  color: var(--color-white);
+  display: inline-block;
+}
+.arrowIcon1,
+.greenLeafIcon1,
+.starIcon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.starIcon1 {
+  height: 2.99%;
+  width: 1.91%;
+  top: 72.91%;
+  right: 5.23%;
+  bottom: 24.1%;
+  left: 92.86%;
+}
+.arrowIcon1 {
+  height: 7.17%;
+  width: 4.59%;
+  top: 87.25%;
+  right: 39.54%;
+  bottom: 5.58%;
+  left: 55.87%;
+}
+.greenLeafIcon1 {
+  height: 8.48%;
+  width: 5.43%;
+  top: 85.66%;
+  right: 90.24%;
+  bottom: 5.86%;
+  left: 4.34%;
+}
+.hanumanSweets {
+  position: absolute;
+  top: 1437px;
+  left: 7px;
+  width: 392px;
+  height: 251px;
+  color: var(--color-gray-700);
+}
+.maskImageIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 100.52%;
+  top: 0;
+  right: 0.52%;
+  bottom: 0;
+  left: -1.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.deepakCanteenChild {
+  position: absolute;
+  height: 33.86%;
+  width: 98.45%;
+  top: 66.14%;
+  right: 1.55%;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-2xl) var(--br-2xl);
+  background-color: var(--color-white);
+}
+.deepakCanteenH9 {
+  position: absolute;
+  top: 0;
+  left: 4.23%;
+  font-size: var(--font-size-4xl);
+  line-height: 21px;
+  color: var(--color-black);
+}
+.chineseIndian,
+.forOne2 {
+  position: absolute;
+  line-height: 21px;
+  display: inline-block;
+}
+.chineseIndian {
+  height: 36.36%;
+  width: 27.51%;
+  top: 25.76%;
+  left: 0;
+}
+.forOne2 {
+  width: 20.11%;
+  top: 30.3%;
+  left: 79.1%;
+}
+.groupChild {
+  position: absolute;
+  height: 24.24%;
+  width: 11.64%;
+  top: 12.12%;
+  right: 3.44%;
+  bottom: 63.64%;
+  left: 84.92%;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-300);
+}
+.div2 {
+  position: absolute;
+  width: 20.11%;
+  top: 7.58%;
+  left: 79.89%;
+  line-height: 21px;
+  color: var(--color-white);
+  display: inline-block;
+}
+.arrowIcon2,
+.greenLeafIcon2,
+.starIcon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.starIcon2 {
+  height: 11.36%;
+  width: 1.98%;
+  top: 18.18%;
+  right: 5.42%;
+  bottom: 70.45%;
+  left: 92.59%;
+}
+.arrowIcon2 {
+  height: 27.27%;
+  width: 4.76%;
+  top: 72.73%;
+  right: 43.65%;
+  bottom: 0;
+  left: 51.59%;
+}
+.greenLeafIcon2 {
+  height: 32.24%;
+  width: 5.63%;
+  top: 66.67%;
+  right: 93.58%;
+  bottom: 1.09%;
+  left: 0.79%;
+}
+.deepakCanteenH9Parent {
+  position: absolute;
+  height: 26.29%;
+  width: 97.67%;
+  top: 69.32%;
+  right: 0;
+  bottom: 4.38%;
+  left: 2.33%;
+}
+.deepakCanteen {
+  position: absolute;
+  top: 1165px;
+  left: 12px;
+  width: 387px;
+  height: 251px;
+  color: var(--color-gray-700);
+}
+.seeMore1 {
+  position: absolute;
+  height: 92.31%;
+  width: 18.65%;
+  top: 7.69%;
+  left: 41.45%;
+  line-height: 21px;
+  display: inline-block;
+}
+.seeMoreChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.seeMoreItem {
+  position: absolute;
+  height: 13.46%;
+  width: 1.68%;
+  top: 41.35%;
+  right: 41.65%;
+  bottom: 45.19%;
+  left: 56.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.seeMore {
+  position: absolute;
+  top: 2014px;
+  left: 14px;
+  width: 386px;
+  height: 26px;
+  font-size: var(--font-size-sm);
+}
+.maskImageIcon2 {
+  position: absolute;
+  height: 103.19%;
+  width: 100.52%;
+  top: 0;
+  right: 0.52%;
+  bottom: -3.19%;
+  left: -1.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.amul1,
+.dessertsIceCream {
+  position: absolute;
+  line-height: 21px;
+  display: inline-block;
+}
+.amul1 {
+  width: 12.14%;
+  top: 69.32%;
+  left: 5.68%;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.dessertsIceCream {
+  height: 7.57%;
+  width: 45.22%;
+  top: 77.69%;
+  left: 3.1%;
+}
+.chai,
+.forOne3 {
+  line-height: 21px;
+}
+.chai {
+  position: absolute;
+  height: 8.37%;
+  width: 12.4%;
+  top: 87.25%;
+  left: 53.49%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forOne3 {
+  width: 19.64%;
+  top: 77.29%;
+  left: 79.33%;
+  display: inline-block;
+}
+.amulItem,
+.div3,
+.forOne3 {
+  position: absolute;
+}
+.amulItem {
+  height: 6.37%;
+  width: 11.37%;
+  top: 72.51%;
+  right: 3.36%;
+  bottom: 21.12%;
+  left: 85.27%;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-300);
+}
+.div3 {
+  width: 19.64%;
+  top: 71.31%;
+  left: 80.36%;
+  line-height: 21px;
+  color: var(--color-white);
+  display: inline-block;
+}
+.arrowIcon3,
+.greenLeafIcon3,
+.starIcon3 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.starIcon3 {
+  height: 2.99%;
+  width: 1.94%;
+  top: 74.1%;
+  right: 5.3%;
+  bottom: 22.91%;
+  left: 92.76%;
+}
+.arrowIcon3 {
+  height: 7.17%;
+  width: 4.65%;
+  top: 88.05%;
+  right: 45.22%;
+  bottom: 4.78%;
+  left: 50.13%;
+}
+.greenLeafIcon3 {
+  height: 8.48%;
+  width: 5.5%;
+  top: 86.85%;
+  right: 91.4%;
+  bottom: 4.67%;
+  left: 3.1%;
+}
+.amul {
+  position: absolute;
+  top: 890px;
+  left: 12px;
+  width: 387px;
+  height: 251px;
+  color: var(--color-gray-700);
+}
+.maskGroupIcon,
+.textAndSymbolsChild {
+  position: absolute;
+  width: 98.96%;
+  right: 1.04%;
+  bottom: 0;
+  left: 0;
+}
+.maskGroupIcon {
+  height: 100%;
+  top: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.textAndSymbolsChild {
+  height: 33.86%;
+  top: 66.14%;
+  border-radius: 0 0 var(--br-2xl) var(--br-2xl);
+  background-color: var(--color-white);
+}
+.healthyFood,
+.nitJuiceCorner {
+  position: absolute;
+  line-height: 21px;
+  display: inline-block;
+}
+.nitJuiceCorner {
+  height: 8.37%;
+  width: 33.77%;
+  top: 69.72%;
+  left: 7.27%;
+  font-size: var(--font-size-4xl);
+}
+.healthyFood {
+  width: 16.36%;
+  top: 87.65%;
+  left: 10.65%;
+  color: var(--color-gray-700);
+}
+.textAndSymbolsItem {
+  position: absolute;
+  height: 6.37%;
+  width: 11.43%;
+  top: 73.31%;
+  right: 3.38%;
+  bottom: 20.32%;
+  left: 85.19%;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-300);
+}
+.div4 {
+  position: absolute;
+  width: 19.74%;
+  top: 72.11%;
+  left: 80.26%;
+  line-height: 21px;
+  color: var(--color-white);
+  display: inline-block;
+}
+.arrowIcon4,
+.greenLeafIcon4,
+.starIcon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.starIcon4 {
+  height: 2.99%;
+  width: 1.95%;
+  top: 74.9%;
+  right: 5.32%;
+  bottom: 22.11%;
+  left: 92.73%;
+}
+.arrowIcon4 {
+  height: 7.17%;
+  width: 4.68%;
+  top: 89.64%;
+  right: 32.47%;
+  bottom: 3.19%;
+  left: 62.86%;
+}
+.greenLeafIcon4 {
+  height: 8.48%;
+  width: 5.53%;
+  top: 87.65%;
+  right: 91.88%;
+  bottom: 3.87%;
+  left: 2.6%;
+}
+.textAndSymbols {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.forOne4 {
+  position: absolute;
+  width: 19.74%;
+  top: 80.88%;
+  left: 79.22%;
+  line-height: 21px;
+  color: var(--color-gray-700);
+  display: inline-block;
+}
+.eatHealthyGroup {
+  position: absolute;
+  top: 609px;
+  left: 13px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 385px;
+  height: 251px;
+}
+.dinnersAroundYou {
+  position: absolute;
+  top: 567px;
+  left: 11px;
+  font-size: var(--font-size-7xl);
+  line-height: 21px;
+  display: inline-block;
+  font-weight: 200;
+  width: 207px;
+  height: 25px;
+}
+.seeMore2 {
+  position: absolute;
+  top: 530px;
+  left: 16px;
+  width: 386px;
+  height: 26px;
+  font-size: var(--font-size-sm);
+}
+.biryani,
+.cake,
+.healthy {
+  position: absolute;
+  line-height: 21px;
+  display: inline-block;
+}
+.healthy {
+  height: 18.42%;
+  width: 12.18%;
+  left: 5.38%;
+}
+.healthy,
+.pizza {
+  top: 35.96%;
+}
+.pizza,
+.rolls {
+  position: absolute;
+  line-height: 21px;
+  display: inline-block;
+}
+.cake,
+.pizza {
+  height: 9.21%;
+  width: 11.05%;
+}
+.pizza {
+  left: 58.64%;
+}
+.cake {
+  top: 90.75%;
+  left: 31.93%;
+}
+.rolls {
+  height: 8.81%;
+  width: 15.83%;
+  top: 36.12%;
+  left: 81.53%;
+}
+.biryani {
+  height: 18.42%;
+  width: 11.05%;
+  top: 35.96%;
+  left: 32.01%;
+}
+.biryaniIcon {
+  top: 0;
+  right: 51.56%;
+  bottom: 66.23%;
+  left: 26.63%;
+}
+.biryaniIcon,
+.burgerIcon,
+.cakeIcon,
+.healthyIcon,
+.pizzaIcon,
+.shawarmaIcon {
+  position: absolute;
+  height: 33.77%;
+  width: 21.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.healthyIcon {
+  top: 0.88%;
+  right: 78.19%;
+  bottom: 65.35%;
+  left: 0;
+}
+.burgerIcon,
+.cakeIcon {
+  top: 55.7%;
+  right: 51.56%;
+  bottom: 10.53%;
+  left: 26.63%;
+}
+.cakeIcon {
+  right: 25.78%;
+  left: 52.41%;
+}
+.pizzaIcon,
+.shawarmaIcon {
+  top: 0.88%;
+  right: 24.65%;
+  bottom: 65.35%;
+  left: 53.54%;
+}
+.shawarmaIcon {
+  right: -0.44%;
+  left: 78.63%;
+}
+.burger {
+  position: absolute;
+  height: 9.21%;
+  width: 11.05%;
+  top: 90.75%;
+  left: 58.84%;
+  line-height: 21px;
+  display: inline-block;
+}
+.eatWhatMakes,
+.healthyBiryani {
+  position: absolute;
+  left: 16px;
+}
+.healthyBiryani {
+  top: 291px;
+  width: 379px;
+  height: 227px;
+  font-size: var(--font-size-xl);
+}
+.eatWhatMakes {
+  top: 237px;
+  font-size: var(--font-size-7xl);
+  line-height: 21px;
+  display: inline-block;
+  font-weight: 200;
+  width: 251px;
+  height: 24px;
+}
+.topBarChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xl) var(--br-3xl) 0 0;
+  background-color: var(--color-white);
+}
+.searchParent {
+  width: 89%;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 18.57%;
+  top: 55.06%;
+  right: 7.14%;
+  bottom: 26.37%;
+  left: 3.86%;
+}
+.outletsFood {
+  position: absolute;
+  height: 10.13%;
+  width: 74%;
+  top: 59.07%;
+  left: 14.05%;
+  line-height: 21px;
+  display: inline-block;
+}
+.searchIcon {
+  height: 7.59%;
+  width: 5.3%;
+  top: 60.34%;
+  right: 85.1%;
+  bottom: 32.07%;
+  left: 9.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.searchIcon,
+.time,
+.wifiIcon {
+  position: absolute;
+}
+.time {
+  width: calc(100% - 340px);
+  top: 0;
+  left: 0;
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  display: inline-block;
+}
+.wifiIcon {
+  width: 5.18%;
+  top: 2px;
+  right: 6.93%;
+  left: 87.89%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 15px;
+}
+.cellIcon {
+  position: relative;
+  width: 16.48px;
+  height: 10.67px;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  height: 94.44%;
+  width: 88%;
+  top: 2.78%;
+  right: 12%;
+  bottom: 2.78%;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.capIcon {
+  height: 33.33%;
+  width: 5.33%;
+  top: 33.33%;
+  right: 2.67%;
+  bottom: 33.33%;
+  left: 92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  height: 61.11%;
+  width: 72%;
+  top: 19.44%;
+  right: 20%;
+  bottom: 19.44%;
+  left: 8%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+}
+.battery {
+  position: absolute;
+  top: 3px;
+  right: 0;
+  width: 25px;
+  height: 12px;
+}
+.statusBar1 {
+  position: absolute;
+  width: calc(100% + 375.55px);
+  top: -2px;
+  right: -64.55px;
+  left: -311px;
+  height: 19px;
+}
+.statusBar {
+  position: absolute;
+  height: 5.06%;
+  width: 4.22%;
+  top: 8.86%;
+  right: 19.44%;
+  bottom: 86.08%;
+  left: 76.35%;
+  border-radius: var(--br-3xl) var(--br-3xl) 0 0;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.maxSafetyIcon {
+  position: absolute;
+  height: 13.5%;
+  width: 88.88%;
+  top: 26.16%;
+  right: 6.09%;
+  bottom: 60.34%;
+  left: 5.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.topBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 237px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-300);
+}
+.phoneMenuIcon {
+  position: absolute;
+  top: 2675px;
+  left: 91px;
+  width: 223px;
+  height: 27px;
+}
+.home {
+  position: relative;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2085px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
