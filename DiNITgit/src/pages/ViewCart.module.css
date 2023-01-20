@@ -1,0 +1,129 @@
+.backSymbolIcon {
+  position: absolute;
+  top: 61.5px;
+  left: 13.5px;
+  width: 6.5px;
+  height: 13px;
+}
+.continueOptionIcon {
+  position: absolute;
+  top: 842px;
+  left: 373px;
+  width: 4px;
+  height: 8px;
+}
+.time,
+.wifiIcon {
+  position: absolute;
+}
+.time {
+  width: 13.71%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  display: inline-block;
+}
+.wifiIcon {
+  height: 83.33%;
+  width: 5.33%;
+  top: 11.11%;
+  right: 6.85%;
+  bottom: 5.56%;
+  left: 87.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cellIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  height: 94.44%;
+  width: 88%;
+  top: 2.78%;
+  right: 12%;
+  bottom: 2.78%;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.capIcon {
+  height: 33.33%;
+  width: 5.33%;
+  top: 33.33%;
+  right: 2.67%;
+  bottom: 33.33%;
+  left: 92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  height: 61.11%;
+  width: 72%;
+  top: 19.44%;
+  right: 20%;
+  bottom: 19.44%;
+  left: 8%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+}
+.battery {
+  height: 66.67%;
+  width: 6.35%;
+  top: 16.67%;
+  right: 0;
+  bottom: 16.67%;
+  left: 93.65%;
+}
+.battery,
+.orderSuccessful,
+.statusBar {
+  position: absolute;
+}
+.statusBar {
+  top: 18px;
+  left: 13px;
+  width: 394px;
+  height: 18px;
+}
+.orderSuccessful {
+  top: 310px;
+  left: 54px;
+  font-size: 30px;
+  line-height: 21.5px;
+  display: inline-block;
+  width: 305px;
+  height: 35px;
+}
+.phoneMenuIcon {
+  position: absolute;
+  top: 875px;
+  left: 5px;
+  width: 414px;
+  height: 55px;
+}
+.viewCart {
+  position: relative;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 930px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
