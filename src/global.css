@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,600;0,700;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Signika:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-mulish: Mulish;
+  --font-signika: Signika;
+
+  /* font sizes */
+  --font-size-2xs: 7px;
+  --font-size-xs: 8px;
+  --font-size-sm: 9px;
+  --font-size-base: 10px;
+  --font-size-lg: 11px;
+  --font-size-xl: 12px;
+  --font-size-2xl: 13px;
+  --font-size-3xl: 14px;
+  --font-size-4xl: 15px;
+  --font-size-5xl: 16px;
+  --font-size-6xl: 17px;
+  --font-size-7xl: 20px;
+  --font-size-8xl: 22px;
+  --font-size-9xl: 26px;
+  --font-size-10xl: 27px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #f8f4f4;
+  --color-gray-200: #e5e5e5;
+  --color-gray-300: #c4c4c4;
+  --color-gray-400: #a4a0a0;
+  --color-gray-500: #8c7b7b;
+  --color-gray-600: #817070;
+  --color-gray-700: #3c3636;
+  --color-gray-800: #4e1f43;
+  --color-gray-900: rgba(0, 0, 0, 0.69);
+  --color-black: #000;
+  --color-red-100: #f60f0f;
+  --color-red-200: #e41515;
+  --color-blue-100: #3e15e4;
+  --color-blue-200: #151de4;
+  --color-green-100: #72cb53;
+  --color-green-200: #4ab425;
+  --color-green-300: #2b7d0f;
+  --color-brown: #c00808;
+  --color-pink: rgba(255, 169, 169, 0.51);
+
+  /* Gaps */
+  --gap-md: 15px;
+
+  /* border radiuses */
+  --br-3xs: 1.33px;
+  --br-2xs: 2.67px;
+  --br-xs: 2px;
+  --br-sm: 3px;
+  --br-md: 4px;
+  --br-lg: 7px;
+  --br-xl: 8px;
+  --br-2xl: 10px;
+  --br-3xl: 15px;
+}
